@@ -9,3 +9,7 @@ temporary placehold for files that will be committed.  not all files have to go 
 How can you use the staging area to make sure you have one commit per logical change?
 
 organizing files and changes by staging only the areas affected by a logical changes before committing.
+
+What are some cases wehn branches would be helpful in keeping your history organized?
+
+you can split code to try experimental changes or different versions of the app and use separate branches for these.  can merge them later if desired.
