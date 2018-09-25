@@ -1,0 +1,7 @@
+What happens when you initialize a repository?  why do you need to do it?
+
+     .git directory is made and files in repository directory will start getting tracked.
+
+how is teh staging area different from the working directory and the repository?  what value does it offer?
+
+temporary placehold for files that will be committed.  not all files have to go here so it's useful to review/visualize what will be committed before actually doing it.
