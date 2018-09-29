@@ -8,3 +8,6 @@ Describe differences between forks, clones, and branches.
 Forks are for making copies of repositories on github for our own use.
 Clone brings repository to local machine.
 Branches are labels on specific commits to separate code paths (e.g. to try out a feature)
+
+How would you collaborate wihtout using git or github?
+would be more difficult through email/sending files.   
