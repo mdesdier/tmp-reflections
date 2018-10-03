@@ -11,3 +11,8 @@ Branches are labels on specific commits to separate code paths (e.g. to try out 
 
 How would you collaborate wihtout using git or github?
 would be more difficult through email/sending files.   
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+make changes in branch so you can do a pull request and make them reviewable by others.  if you just make changes on master and push, it wont be reviewed.
